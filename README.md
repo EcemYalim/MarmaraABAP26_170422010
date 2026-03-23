@@ -1,3 +1,6 @@
 # MarmaraABAP26_170422010
+<<<<<<< HEAD
 
+=======
+>>>>>>> 239f5d79c75a54b8221e348a3cca0ae1d0c24488
 MarmaraABAP26_170422010
